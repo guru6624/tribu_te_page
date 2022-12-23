@@ -1,0 +1,27 @@
+#tribute-page {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#tribute-page h1 {
+  color: rgb(53, 53, 96);
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+#tribute-page img {
+  width: 300px;
+  border: 1px solid black;
+  margin: 20px 0;
+}
+
+#tribute-page p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+.bg-container {
+  background-size: cover;
+}
